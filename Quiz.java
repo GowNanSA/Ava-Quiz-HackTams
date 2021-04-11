@@ -1,4 +1,4 @@
-//Gowri Nanda's Avaiation Quiz 
+//Gowri Nanda's Aviation Quiz 
 
 //all avaiation information is from https://www.aopa.org/training-and-safety/learn-to-fly/flying-for-fun/take-your-medical-exam
 //and faa.gov
